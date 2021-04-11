@@ -20,14 +20,14 @@ body {
 	background: linear-gradient($c0, $c0), 
 		url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/2017/kreator_rockharz_july_2018.jpg) 
 			50%/ cover fixed;/**/
-	font: 10vw leckerli one, segoe script, comic sans ms, cursive;
+	font: 10vw 'Londrina Solid', cursive;
 }
 
 a {
 	--i: 0;
 	transform: scale(calc(1 + var(--i)*.25));
 	color: hsl($h, $s, calc(var(--i)*#{$l} + (1 - var(--i))*100%));
-	font: 900 9vw/ 1.5 leckerli one, cursive;
+	font: 900 9vw/ 1.5 'Londrina Solid', cursive;
 	text-decoration: none;
 	filter: drop-shadow(1px 1px 3px #000) 
 					drop-shadow(2px 2px 5px #fff);
