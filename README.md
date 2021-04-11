@@ -1,2 +1,3 @@
 # jseaman1.github.io
-personal website
+
+[Visit my site here!](https://jseaman1.github.io/)
