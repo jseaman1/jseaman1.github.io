@@ -332,7 +332,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: rgba(255, 255, 255, 0.875);
+		color: rgba(255, 255, 255, 1);
 		font-family: Arial, Helvetica, sans-serif;
 		font-weight: 700;
 		line-height: 1.3;
